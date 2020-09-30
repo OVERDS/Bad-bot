@@ -1,0 +1,2 @@
+# Bad-bot
+Bot facebook
